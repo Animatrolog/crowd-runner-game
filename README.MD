@@ -30,3 +30,4 @@ To-do list.
 
 ## Release
 [Google Play](https://play.google.com/store/apps/details?id=com.Animatrolog.Crowd_Crushers_Runner)
+[Yandex Games](https://yandex.com/games/app/214752)
